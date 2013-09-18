@@ -1,4 +1,4 @@
 MetroBackground
 ===============
 
-a Metro style background use css3
+a Metro style dynamic background use css3
