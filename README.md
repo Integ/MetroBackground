@@ -1,5 +1,5 @@
 MetroBackground
 ===============
-[DEMO](http://integ.github.io/MetroBackground)
+[DEMO](www.ailee.me)
 
 a Metro style dynamic background use css3
